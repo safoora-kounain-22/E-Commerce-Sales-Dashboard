@@ -96,4 +96,4 @@ DAX Functions
 Business Analysis
 Sales Analytics
 11.Dashboard Preview
-![E-Commerce Sales Dashboard](E-Commerce Sales Dashboard.png)
+![E-Commerce Sales Dashboard](https://github.com/safoora-kounain-22/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png)
